@@ -1,12 +1,12 @@
 {
-    "name": "revealjs-snippets",
+    "name": "revealjs-atom-snippets",
     "version": "0.1.0",
     "author": {
         "name": "Josenaldo de Oliveira Matos Filho"
     },
     "repository": {
         "type": "git",
-        "url": "git@github.com:josenaldo/revealjs-atom-snippets.git"
+        "url": "git+https://github.com/josenaldo/revealjs-atom-snippets.git"
     },
     "description": "Snippets for RevealJS.",
     "keywords": [
