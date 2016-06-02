@@ -1,0 +1,8 @@
+'.text.html':
+  'Slide':
+    'prefix': 'slide'
+    'body': """
+        <section>
+            ${1:content}
+        </section>
+    """

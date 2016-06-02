@@ -1,0 +1,8 @@
+'.text.html':
+  'Slides':
+    'prefix': 'slides'
+    'body': """
+        <div class="slides">
+            ${1:slides}
+        </div>
+    """

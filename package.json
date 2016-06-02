@@ -1,0 +1,28 @@
+{
+    "name": "revealjs-snippets",
+    "version": "0.1.0",
+    "author": {
+        "name": "Josenaldo de Oliveira Matos Filho"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git@github.com:josenaldo/revealjs-atom-snippets.git"
+    },
+    "description": "Snippets for RevealJS.",
+    "keywords": [
+        "snippets",
+        "modules",
+        "revealjs",
+        "presentation",
+        "templates"
+    ],
+    "license": "MIT",
+    "engines": {
+        "atom": ">=1.0.0 <2.0.0"
+    },
+    "bugs": {
+        "url": "https://github.com/josenaldo/revealjs-atom-snippets/issues"
+    },
+    "homepage": "https://github.com/josenaldo/revealjs-atom-snippets",
+    "dependencies": {}
+}
