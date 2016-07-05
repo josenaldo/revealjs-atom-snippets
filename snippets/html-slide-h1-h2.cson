@@ -1,0 +1,9 @@
+'.text.html':
+  'Slide > h1 + h2':
+    'prefix': 'slide-h1-h2'
+    'body': """
+        <section>
+            <h1>${1:title}</h1>
+            <h2>${2:content}</h2>
+        </section>
+    """

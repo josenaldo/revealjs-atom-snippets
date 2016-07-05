@@ -1,0 +1,6 @@
+'.text.html':
+  'Background color':
+    'prefix': 'slide-background-color'
+    'body': """
+        data-background-color="#{1:ff0000}"
+    """

@@ -1,0 +1,6 @@
+'.text.html':
+  'Background Image':
+    'prefix': 'slide-background-image'
+    'body': """
+        data-background-image="#{1:http://example.com/image.png}"
+    """

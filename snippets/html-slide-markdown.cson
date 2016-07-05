@@ -1,0 +1,12 @@
+'.text.html':
+    'Slide Markdown':
+        'prefix': 'slide-markdown'
+        'body': """
+            <section data-markdown>
+                <script type="text/template">
+                    ## ${1:Page title}
+
+                    ${2:A paragraph with some text}
+                </script>
+            </section>
+        """
