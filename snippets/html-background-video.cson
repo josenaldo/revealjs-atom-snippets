@@ -2,5 +2,5 @@
   'Background Video':
     'prefix': 'slide-background-video'
     'body': """
-        data-background-video="#{1:http://example.com/video.mp4}"
+        data-background-video="${1:http://example.com/video.mp4}"
     """
