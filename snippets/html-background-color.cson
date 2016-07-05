@@ -2,5 +2,5 @@
   'Background color':
     'prefix': 'slide-background-color'
     'body': """
-        data-background-color="#{1:ff0000}"
+        data-background-color="#${1:ff0000}"
     """
